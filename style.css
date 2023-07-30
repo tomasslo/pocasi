@@ -1,0 +1,10 @@
+body{
+    font-family: 'Arial', cursive;
+    font-size: 20pt;
+}
+#temperature{
+    font-size: 50pt;
+}
+#picture{
+    display: inline;
+}

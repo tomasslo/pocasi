@@ -1,0 +1,11 @@
+cz\vsb\pocasi\controller\WeatherController.class
+cz\vsb\pocasi\dto\WeatherDto.class
+cz\vsb\pocasi\dto\Location.class
+cz\vsb\pocasi\dto\WeatherstackDto.class
+cz\vsb\pocasi\controller\GreetingController.class
+cz\vsb\pocasi\App.class
+cz\vsb\pocasi\connector\WeatherstackConnector.class
+cz\vsb\pocasi\dto\Current.class
+cz\vsb\pocasi\service\WeatherService.class
+cz\vsb\pocasi\City.class
+cz\vsb\pocasi\dto\Request.class
